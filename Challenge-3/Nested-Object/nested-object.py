@@ -1,6 +1,6 @@
 import json
 
-def findkeys(node, kv): # Called finfkeys Fuction
+def findkeys(node, kv): # Called findkeys Fuction
     if isinstance(node, list):
         for i in node:
             for x in findkeys(i, kv):
