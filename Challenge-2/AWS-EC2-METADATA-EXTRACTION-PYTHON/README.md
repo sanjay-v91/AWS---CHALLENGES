@@ -1,7 +1,7 @@
 # AWS-EC2-METADATA-EXTRACTION-PYTHON
 
-## What it does
-- Query the metadata of an ec2 instance within AWS and provide a json formatted output. 
+## What the Python Script does
+- Query the metadata of an EC2 instance within AWS and provide a json formatted output. 
 - Retrieve the value of a particular data key.
 
 ## How to install
